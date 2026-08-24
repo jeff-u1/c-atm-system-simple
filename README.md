@@ -1,2 +1,2 @@
-# c-atm-system-simple
+# c++-atm-system-simple
 atm system made in cpp
